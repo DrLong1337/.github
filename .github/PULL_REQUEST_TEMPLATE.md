@@ -1,9 +1,8 @@
 Closes # .
 
-### Description
+**Description**
 
-### Checklist:
-
+**Checklist:**
 - [ ] issue number linked above after pound (`#`)
   - replace "Closes " with "Contributes to" or other if this PR does not close the issue
 - [ ] issue checkboxes are all addressed

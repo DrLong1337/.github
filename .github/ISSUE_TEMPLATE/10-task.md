@@ -9,5 +9,4 @@ title: "[TASK NAME]"
 **Context**
 
 **Tasks**
-
 - [ ] task1

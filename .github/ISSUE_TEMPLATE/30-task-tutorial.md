@@ -25,5 +25,4 @@ labels: tutorial
 // Required
 // Should contain a list of checkboxes that must be completed to reach the goal of the task
 // Each element can contain more sub-elements (checkboxes or lists)
-
 - [ ] Example task
