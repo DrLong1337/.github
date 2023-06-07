@@ -1,7 +1,8 @@
 ---
 name: New User Story
-about: Use this template to create a generic user story with Acceptance Critera, Background and Business Value
+about: Use this template to create a generic user story with Definition of Done, Background, Business Value, User Insights and Tasks
 title: "As a [persona], I [want to], [so that]."
+label: "user story"
 ---
 
 **Definition of Done**
