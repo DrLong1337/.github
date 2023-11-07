@@ -1,0 +1,35 @@
+name: Service
+description: Create a new service to be tracked in our service overview project
+title: "[Service]: "
+labels: []
+projects: ["impuls-energy/40"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Service Name
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Repository Link
+      description: Please copy the link of the repository here.
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Service Description
+      description: Please describe the service functionality in 2-3 sentences.
+    validations:
+      required: true
+  - type: checkboxes
+    id: properties
+    attributes:
+      label: Connectivity
+      description: Check what kind of connectivity is used by the services.
+      options:
+        - label: PostgreSQL Database
+        - label: SFTP-Server
+        - label: RESTful-API        
