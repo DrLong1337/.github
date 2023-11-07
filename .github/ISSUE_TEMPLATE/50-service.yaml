@@ -2,7 +2,7 @@ name: Service
 description: Create a new service to be tracked in our service overview project
 title: "[Service Name]"
 labels: []
-projects: "impuls-energy/40"
+projects: ["impuls-energy/30"]
 body:
   - type: input
     id: link
