@@ -17,13 +17,4 @@ body:
       label: Service Description
       description: Please describe the service functionality in 2-3 sentences.
     validations:
-      required: true
-  - type: checkboxes
-    id: properties
-    attributes:
-      label: Connectivity
-      description: Check what kind of connectivity is used by the services.
-      options:
-        - label: PostgreSQL Database
-        - label: SFTP-Server
-        - label: RESTful-API        
+      required: true    
