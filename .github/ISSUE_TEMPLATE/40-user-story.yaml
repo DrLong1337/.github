@@ -36,7 +36,7 @@ body:
     id: bv
     attributes:
       label: Tasks
-      placeholder: - [ ] task1, ideally with link to issue
+      placeholder: task1, ideally with link to issue
     validations:
       required: false
   
