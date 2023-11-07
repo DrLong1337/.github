@@ -3,7 +3,7 @@ name: New User Story
 about: Use this template to create a generic user story with Definition of Done, Background, Business Value, User Insights and Tasks
 title: "As a [persona], I [want to], [so that]."
 type: [story]
-projects: ["impuls-energy/22"]
+projects: ["impuls-energy/projects/22"]
 ---
 
 **Definition of Done**
