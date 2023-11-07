@@ -10,28 +10,28 @@ body:
       description: The story is generally “done” when the user can complete the outlined task, but make sure to define what that is.
     validations:
       required: false
-  - type: input
+  - type: text-area
     id: background
     attributes:
       label: Background
       description: What do you need to know?
     validations:
       required: false
-  - type: input
+  - type: text-area
     id: bv
     attributes:
       label: Business Value
       description: How does it help Impuls as a company?
     validations:
       required: false
-  - type: input
+  - type: text-area
     id: ui
     attributes:
       label: User insights
       description: Talk to users and capture the problem or need in their words. No need to guess at stories when you can source them from your customers.
     validations:
       required: false
-  - type: input
+  - type: text-area
     id: tasks
     attributes:
       label: Tasks
