@@ -1,0 +1,57 @@
+name: New User Story
+description: Use this template to create a generic user story with Definition of Done, Background, Business Value, User Insights and Tasks
+title: "As a [persona], I [want to], [so that]."
+type: [story]
+projects: ["impuls-energy/22"]
+body:
+  - type: input
+    id: dod
+    attributes:
+      label: Definition of Done
+      description: The story is generally “done” when the user can complete the outlined task, but make sure to define what that is.
+    validations:
+      required: false
+  - type: input
+    id: background
+    attributes:
+      label: Background
+      description: What do you need to know?
+    validations:
+      required: false
+  - type: input
+    id: bv
+    attributes:
+      label: Business Value
+      description: How does it help Impuls as a company?
+    validations:
+      required: false
+  - type: input
+    id: bv
+    attributes:
+      label: User insights
+      description: Talk to users and capture the problem or need in their words. No need to guess at stories when you can source them from your customers.
+    validations:
+      required: false
+  - type: input
+    id: bv
+    attributes:
+      label: Tasks
+      placeholder: - [ ] task1, ideally with link to issue
+    validations:
+      required: false
+  
+  
+
+      
+**Definition of Done**
+The story is generally “done” when the user can complete the outlined task, but make sure to define what that is.
+
+**Background**
+
+**Business Value**
+
+**User insights**
+Talk to your users and capture the problem or need in their words. No need to guess at stories when you can source them from your customers.
+
+**Tasks**
+- [ ] task1, ideally with link to issue
