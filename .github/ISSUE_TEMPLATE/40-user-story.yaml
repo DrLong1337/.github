@@ -26,14 +26,14 @@ body:
     validations:
       required: false
   - type: input
-    id: bv
+    id: ui
     attributes:
       label: User insights
       description: Talk to users and capture the problem or need in their words. No need to guess at stories when you can source them from your customers.
     validations:
       required: false
   - type: input
-    id: bv
+    id: tasks
     attributes:
       label: Tasks
       placeholder: task1, ideally with link to issue
