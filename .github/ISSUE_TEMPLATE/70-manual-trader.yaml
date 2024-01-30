@@ -14,7 +14,5 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: Service Description
-      description: Please describe the service functionality in 2-3 sentences.
-    validations:
-      required: true   
+      label: Kontext
+      description: Gebe mehr Kontext zum Thema und beschreibe, was der Wert von einer Lösung ist. Links und Screenshots können sehr hilfreich sein.
