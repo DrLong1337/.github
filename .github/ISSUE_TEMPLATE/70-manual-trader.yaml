@@ -1,8 +1,8 @@
 name: Trader
-description: Create a new service to be tracked in our service overview project
+description: Probleme / Ideen / Wünsche
 title: "[Title]"
 labels: []
-projects: ["impuls-energy/30"]
+projects: ["impuls-energy/36"]
 body:
   - type: input
     id: link
