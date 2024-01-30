@@ -4,11 +4,11 @@ title: "[Title]"
 labels: []
 projects: ["impuls-energy/36"]
 body:
-  - type: input
-    id: link
+  - type: textarea
+    id: description
     attributes:
-      label: Repository Link
-      description: Please copy the link of the repository here.
+      label: Problem / Idee / Wunsch
+      description: Beschreibe deine Idee in 1-2 Sätzen
     validations:
       required: true
   - type: textarea
