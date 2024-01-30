@@ -1,0 +1,20 @@
+name: Trader
+description: Create a new service to be tracked in our service overview project
+title: "[Title]"
+labels: []
+projects: ["impuls-energy/30"]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Repository Link
+      description: Please copy the link of the repository here.
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Service Description
+      description: Please describe the service functionality in 2-3 sentences.
+    validations:
+      required: true    
