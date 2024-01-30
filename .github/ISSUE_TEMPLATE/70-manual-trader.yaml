@@ -4,20 +4,17 @@ title: "[Title]"
 labels: []
 projects: ["impuls-energy/36"]
 body:
+  - type: input
+    id: link
+    attributes:
+      label: Repository Link
+      description: Please copy the link of the repository here.
+    validations:
+      required: true
   - type: textarea
     id: description
     attributes:
-      label: Problem / Idee / Wunsch
-      description: Beschreibe deine Idee in 1-2 Sätzen
+      label: Service Description
+      description: Please describe the service functionality in 2-3 sentences.
     validations:
-      required: true
-- type: textarea
-    id: description
-    attributes:
-      label: Kontext
-      description: Gebe mehr Kontext zum Thema und beschreibe, was der Wert von einer Lösung ist. Links und Screenshots können sehr hilfreich sein.
-- type: textarea
-    id: description
-    attributes:
-      label: Potentielle Lösungen
-      description: Hier können Händler und Data Engineers potentielle Lösungsvorschläge zum Thema machen.
+      required: true   
