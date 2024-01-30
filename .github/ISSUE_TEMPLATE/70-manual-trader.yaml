@@ -5,7 +5,7 @@ labels: []
 projects: ["impuls-energy/36"]
 body:
   - type: textarea
-    id: description
+    id: problem
     attributes:
       label: Problem / Idee / Wunsch
       description: Beschreibe deine Idee in 1-2 Sätzen
