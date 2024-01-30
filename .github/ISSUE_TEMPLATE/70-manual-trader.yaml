@@ -16,3 +16,8 @@ body:
     attributes:
       label: Kontext
       description: Gebe mehr Kontext zum Thema und beschreibe, was der Wert von einer Lösung ist. Links und Screenshots können sehr hilfreich sein.
+  - type: textarea
+    id: description
+    attributes:
+      label: Potentielle Lösungen
+      description: Hier können Händler und Data Engineers potentielle Lösungsvorschläge zum Thema machen.
