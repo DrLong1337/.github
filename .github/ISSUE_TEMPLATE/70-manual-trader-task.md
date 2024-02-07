@@ -12,7 +12,10 @@ Beschreibe deine Idee in 1-2 Sätzen
 **Kontext**
 Gebe mehr Kontext zum Thema und beschreibe, was der Wert von einer Lösung ist. Links und Screenshots können sehr hilfreich sein.
 
+**Wie sieht die aktuelle Lösung aus? Welche Schritte führt ihr durch?**
+
 **Potentielle Lösungen**
-Hier können Händler und Data Engineers potentielle Lösungsvorschläge zum Thema machen.
+Hier können Händler, aber auch alle anderen potentielle Lösungsvorschläge zum Thema machen.
 
 **Aufgaben**
+- [ ]
