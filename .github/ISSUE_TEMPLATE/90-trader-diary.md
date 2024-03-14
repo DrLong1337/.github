@@ -7,8 +7,16 @@ title: "Zusammenfassung des Tages"
 assignees: "${{ github.actor }}"
 ---
 
-**Vorbereitung**
+**Day Ahead**
 
-**Was ist heute passiert?**
+
+
+**Frühschicht**
+
+**Learnings**
+
+
+
+**Spätschicht**
 
 **Learnings**
