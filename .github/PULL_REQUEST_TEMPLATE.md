@@ -1,4 +1,4 @@
-## Closes Issue [Insert Link]
+## Closes [Insert Link]
 
 **Description:**
 
